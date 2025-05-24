@@ -200,7 +200,7 @@ section {
     display: flex;
     align-items: center;
     justify-content: flex-end;
-    background: url("../img/Slider/slider.jpg") no-repeat;
+    background: url("../img/Slider/slider.JPG") no-repeat;
     background-size: cover;
     background-position: center;
 }
