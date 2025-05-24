@@ -250,7 +250,7 @@ a.slider-btn:hover {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    background: url("../img/banner/banner.jpg") center center no-repeat;
+    background: url("../img/Banner/banner.jpg") center center no-repeat;
     background-size: cover;
 }
 
@@ -460,7 +460,7 @@ a.menu-btn:hover {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url("../img/banner/banner.jpg") center center no-repeat;
+    background: url("../img/Banner/banner.jpg") center center no-repeat;
     background-size: cover;
     padding: 15rem 9.6rem;
 }
